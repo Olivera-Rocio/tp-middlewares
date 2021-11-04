@@ -1,0 +1,10 @@
+El usuario ingreso a la ruta /
+El usuario ingreso a la ruta /about
+El usuario ingreso a la ruta /music
+El usuario ingreso a la ruta /contact
+El usuario ingreso a la ruta /login
+El usuario ingreso a la ruta /admin?user=ada
+El usuario ingreso a la ruta /noEntry
+El usuario ingreso a la ruta /login
+El usuario ingreso a la ruta /admin?user=Ada
+El usuario ingreso a la ruta /
